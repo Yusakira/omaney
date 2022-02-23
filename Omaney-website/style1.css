@@ -1,0 +1,35 @@
+body {
+  background-image:linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);;
+  );
+s
+  text-align: justify;
+  font-family: "Copper Black", "Bodoni MT condensed", Cambria, "Time New Roman";
+  font-size: 200%;
+  line-height: 120%;
+}
+
+h1 {
+  color: darkcyan;
+  text-decoration: underline;
+}
+
+.omaney {
+  float: right;
+  margin-left: 20px;
+}
+
+a {
+  color: rgb(4, 44, 21);
+}
+
+header,
+footer {
+  clear: float;
+
+}
+
+
+a {
+  text-decoration: none;
+}
+/*I hate CSS. This should be said.*/
